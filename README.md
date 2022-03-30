@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kamran-dotcom
 - 👀 I’m interested in programming
-- 🌱 I’m currently laravel developer and currently learning React
+- 🌱 I’m laravel developer and currently learning React
 - 💞️ I’m looking to collaborate on laravel and React projects
 - 📫 Reach me at webjobs.cv@gmail.com
 
