@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kamran-dotcom
+- 👋 Hi, I’m Muhammad Kamran
 - 👀 I’m interested in programming
 - 🌱 I’m laravel developer and currently learning React
 - 💞️ I’m looking to collaborate on laravel and React projects
