@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Kamran
 - 👀 I’m interested in programming
-- 🌱 I’m laravel developer and currently learning React
+- 🌱 I’m full stack developer, working with Laravel and React.js
 - 💞️ I’m looking to collaborate on laravel and React projects
 - 📫 Reach me at webjobs.cv@gmail.com
 
